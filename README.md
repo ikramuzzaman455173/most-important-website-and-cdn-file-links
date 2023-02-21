@@ -57,6 +57,28 @@ npm i daisyui
 <script src="https://cdn.tailwindcss.com"></script>
 ```
 
+> Tailwind Css Config File Use:)
+
+```
+tailwind.config.js
+```
+
+```
+npx tailwindcss init
+```
+
+```
+//tailwind.config.js
+module.exports = {
+  content: [
+    "./src/**/*.{js,jsx,ts,tsx}",
+  ],
+  theme: {
+    extend: {},
+  },
+  plugins: [],
+}
+```
 
 
 
