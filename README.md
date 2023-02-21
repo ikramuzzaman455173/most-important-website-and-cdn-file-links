@@ -42,6 +42,23 @@ https://tailwindcss.com/docs/installation
 https://daisyui.com/components/
 ```
 
+> Daisy UI Use Command & Cdn Link :)
+
+```
+npm i daisyui
+```
+
+> Use Cdn Daisy UI:)
+
+```
+<!--* ====Daisy UI Cdn Fil Link Up===== *-->
+<link href="https://cdn.jsdelivr.net/npm/daisyui@2.50.2/dist/full.css" rel="stylesheet" type="text/css" />
+<script src="https://cdn.tailwindcss.com"></script>
+```
+
+
+
+
 #### [Go to top:arrow_up: ](#top)
 
 
