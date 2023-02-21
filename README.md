@@ -10,7 +10,9 @@
 
 - [All Css Most Important Website And Cdn File Link Up:)](#css)
   - [Tailwind Css Use:)](#css-1)
- 
+  
+- [Random Image Generator Cdn Link:)](#r-img-1)
+  - [Random Image API](#r-img-2)
 
 ***
 
@@ -39,6 +41,29 @@ https://tailwindcss.com/docs/installation
 ```
 https://daisyui.com/components/
 ```
+
+#### [Go to top:arrow_up: ](#top)
+
+
+
+<a name="r-img-1"></a>
+
+### Random Image Generator Cdn Link:)
+
+<a name="r-img-2"></a>
+
+> [Random Image API:)](https://random.responsiveimages.io/)
+
+```
+<img src="https://random.imagecdn.app/500/150">
+```
+
+```
+https://random.imagecdn.app/500/150
+```
+
+#### [Go to top:arrow_up: ](#top)
+
 
 
 
