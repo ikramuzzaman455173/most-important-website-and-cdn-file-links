@@ -80,6 +80,8 @@ npm i daisyui
 https://random.imagecdn.app/500/150
 ```
 
+
+
 > [Source Unsplash For Unlimited Professional Free Images:)](https://unsplash.com/s/photos/random)
 
 ```
