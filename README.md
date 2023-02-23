@@ -14,6 +14,9 @@
 - [Random Image Generator Cdn Link:)](#r-img-1)
   - [Random Image API](#r-img-2)
   - [Source Unsplash](#r-img-3)
+  
+- [Awesome And Best Important HelpFull Tools](#tool)
+  - [snippet generator](#tool-1)
 
 ***
 
@@ -151,6 +154,17 @@ https://source.unsplash.com/random/?productivity,city
 
 #### [Go to top:arrow_up: ](#top)
 
+
+<a name="tool-1"></a>
+### Awesome And Best Important HelpFull Tools:)
+
+<a name="tool-2"></a>
+
+> [snippet generator](https://snippet-generator.app/)
+
+```
+https://snippet-generator.app/
+```
 
 
 
