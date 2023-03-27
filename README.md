@@ -89,7 +89,11 @@ module.exports = {
 https://flowbite.com/
 ```
 
+> [Tailwind Use On Preact Or Any Other Library:)](https://larainfo.com/blogs/install-tailwind-css-in-preact)
 
+```
+https://larainfo.com/blogs/install-tailwind-css-in-preact
+```
 
 #### [Go to top:arrow_up: ](#top)
 
