@@ -18,6 +18,7 @@
   
 - [Awesome And Best Important HelpFull Tools](#tool)
   - [snippet generator](#tool-1)
+  - [Javascript Chats Library Rechart.js](#tool-2)
 
 ***
 
@@ -187,6 +188,64 @@ https://source.unsplash.com/random/?productivity,city
 ```
 https://snippet-generator.app/
 ```
+
+< a name="tool-2"></a>
+> [Javascript Chats Library Rechart.js](https://recharts.org/en-US/)
+
+#### Rechart Js Use And Install:)
+
+**1st Step**
+
+```
+npm install recharts
+```
+
+#### Or Install And Use :)
+
+```
+<script src="https://unpkg.com/react/umd/react.production.min.js"></script>
+<script src="https://unpkg.com/react-dom/umd/react-dom.production.min.js"></script>
+<script src="https://unpkg.com/prop-types/prop-types.min.js"></script>
+<script src="https://unpkg.com/recharts/umd/Recharts.js"></script>
+```
+
+**2nd step**
+
+```jsx
+import React from 'react';
+import { Pie, PieChart, Tooltip } from 'recharts';
+const Rechart = () => {
+  let students = [
+    { id: 1, name: 'John Smith', roll: 'A1', phy: 78, che: 86, math: 92 },
+    { id: 2, name: 'Jane Doe', roll: 'A2', phy: 64, che: 73, math: 81 },
+    { id: 3, name: 'Michael Brown', roll: 'A3', phy: 81, che: 92, math: 77 },
+    { id: 4, name: 'Jessica Lee', roll: 'A4', phy: 89, che: 78, math: 85 },
+    { id: 5, name: 'David Kim', roll: 'A5', phy: 74, che: 80, math: 90 },
+    { id: 6, name: 'Samantha Chen', roll: 'A6', phy: 68, che: 96, math: 88 },
+    { id: 7, name: 'Thomas Nguyen', roll: 'A7', phy: 82, che: 87, math: 79 },
+    { id: 8, name: 'Emily Davis', roll: 'A8', phy: 90, che: 84, math: 93 },
+    { id: 9, name: 'Daniel Wilson', roll: 'A9', phy: 77, che: 91, math: 75 },
+    { id: 10, name: 'Ashley Hernandez', roll: 'A10', phy: 83, che: 79, math: 89 },
+    { id: 11, name: 'Joseph Martinez', roll: 'A11', phy: 72, che: 82, math: 84 },
+    { id: 12, name: 'Olivia Kim', roll: 'A12', phy: 91, che: 88, math: 78 },
+  ];
+
+
+  return (
+    <div>
+      <PieChart width={730} height={250}>
+        <Pie data={students} dataKey="math" nameKey="name" cx="50%" cy="50%" outerRadius={50} fill="#8884d8" />
+        <Pie data={students} dataKey="che" nameKey="name" cx="50%" cy="50%" innerRadius={60} outerRadius={80} fill="#82ca9d" label />
+        <Tooltip />
+      </PieChart>
+
+
+    </div>
+  );
+};
+
+export default Rechart;
+  ```
 
 
 
