@@ -18,7 +18,7 @@
   
 - [Awesome And Best Important HelpFull Tools](#tool)
   - [snippet generator](#tool-1)
-  - [Javascript Chats Library Rechart.js](#tool-2)
+  - [Javascript Charts Library Rechart.js](#tool-2)
 
 ***
 
@@ -189,8 +189,9 @@ https://source.unsplash.com/random/?productivity,city
 https://snippet-generator.app/
 ```
 
-< a name="tool-2"></a>
-> [Javascript Chats Library Rechart.js](https://recharts.org/en-US/)
+<a name="tool-2"></a>
+
+> [Javascript Charts Library Rechart.js](https://recharts.org/en-US/)
 
 #### Rechart Js Use And Install:)
 
@@ -247,5 +248,5 @@ const Rechart = () => {
 export default Rechart;
   ```
 
-
+#### [Go to top:arrow_up: ](#top)
 
