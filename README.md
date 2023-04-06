@@ -182,6 +182,12 @@ https://tailwind-elements.com/
 https://flowbite.com/tools/tailwind-cheat-sheet/
 ```
 
+> [TailwindCss Orginal CHEATSHEET:)](https://nerdcave.com/tailwind-cheat-sheet)
+
+```bash
+https://nerdcave.com/tailwind-cheat-sheet
+```
+
 
 #### [Go to top:arrow_up: ](#top)
 
