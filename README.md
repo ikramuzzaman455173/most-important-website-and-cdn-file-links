@@ -176,6 +176,12 @@ https://heroicons.com/
 https://tailwind-elements.com/
 ```
 
+> [Awesome TailwindCss Cheatsheets:)](https://flowbite.com/tools/tailwind-cheat-sheet/)
+
+```bash
+https://flowbite.com/tools/tailwind-cheat-sheet/
+```
+
 
 #### [Go to top:arrow_up: ](#top)
 
