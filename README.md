@@ -95,6 +95,20 @@ https://flowbite.com/
 
 > [Tailwind Use On Preact Or Any Other Library:)](https://larainfo.com/blogs/install-tailwind-css-in-preact)
 
+**Free Tailwind React Components `npx create-tw@latest <project-name> --template <id>`***
+
+**Install Npm Tailwind React Templates**
+
+```bash
+npx create-tw@latest my-app --template react
+```
+
+**Install Yarn Tailwind React Templates**
+
+```bash
+yearn create tw my-app --template react
+```
+
 ```
 https://larainfo.com/blogs/install-tailwind-css-in-preact
 ```
