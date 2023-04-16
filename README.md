@@ -28,6 +28,7 @@
   - [TailwindCss Orginal CHEATSHEET:)](#tailwindcss-orginal-cheatsheet)
   - [Tailwind Css Free Templates:)](#tailwind-css-free-templates)
   - [Tailwind Css Hyper Ui:)](#tailwind-css-hyper-ui)
+  - [Kimia Ui React Tailwind Css:)](#kimia-ui-react-tailwind-css)
   
  - [Random Image Generator Cdn Link:)](#r-img-1)
   - [Random Image API](#r-img-2)
@@ -282,6 +283,15 @@ https://tailwindtemplates.co/templates
 
 ```
 https://www.hyperui.dev/
+```
+
+#### Kimia Ui React Tailwind Css:)
+
+> [A collection of UI Components for React built with Tailwind CSS 3](https://kimia-ui.vercel.app/templates/dashboards)
+
+
+```
+https://kimia-ui.vercel.app/templates/dashboards
 ```
 
 #### [Go to top:arrow_up: ](#top)
