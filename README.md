@@ -26,6 +26,8 @@
   - [Tailwind Css Top quality open-source UI Kit:)](#tailwind-css-top-quality-open-source-ui-kit)
   - [Awesome TailwindCss Cheatsheets:)](#awesome-tailwindcss-cheatsheets)
   - [TailwindCss Orginal CHEATSHEET:)](#tailwindcss-orginal-cheatsheet)
+  - [Tailwind Css Free Templates:)](#tailwind-css-free-templates)
+  
  - [Random Image Generator Cdn Link:)](#r-img-1)
   - [Random Image API](#r-img-2)
   - [Source Unsplash](#r-img-3)
@@ -265,6 +267,13 @@ https://flowbite.com/tools/tailwind-cheat-sheet/
 https://nerdcave.com/tailwind-cheat-sheet
 ```
 
+#### Tailwind Css Free Templates:)
+
+> [Free Tailwind CSS Templates:)](https://tailwindtemplates.co/templates)
+
+```
+https://tailwindtemplates.co/templates
+```
 
 #### [Go to top:arrow_up: ](#top)
 
